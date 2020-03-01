@@ -14,9 +14,17 @@ h2{
     font-size: 15px;
     font-weight: 100;
     margin-top: 0px;
+    margin-bottom: 30px;
     padding: 0px 50px 0px 265px;
     
 }
+
+h3{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 900;
+}
+
  
 .center{
     text-align: center;
@@ -26,3 +34,49 @@ h2{
 .text{
     color: white;
 }
+
+.lighter-text{
+    color: rgba(255,255,255,0.9);
+}
+
+.login-box{
+    border:solid 0px rgba(255,255,255,0.1);
+    border-radius: 2%;
+    background-color: rgba(255,255,255,0.1);
+    margin: auto;
+    padding: 20px 50px 30px 50px;
+    
+}
+
+.sign-in-btn{
+    font-family: Raleway;
+    font-size: 15px;
+    border: solid 0px rgba(255,255,255,0.2);
+    border-radius: 10%;
+    background-color: rgba(255,255,255,0.2);
+    padding: 10px 12px 10px 12px;
+}
+
+.sign-in-btn:hover{
+    background-color: rgba(255,255,255,0.3);
+}
+
+a{
+    font-family:Montserrat;
+    font-size:12px;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.info-spacing{
+    margin-bottom: 28px;
+}
+
+.pass-spacing{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
