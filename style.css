@@ -1,0 +1,28 @@
+
+body{
+    background: linear-gradient(120deg,#2979BA,#833E94);
+}
+ 
+h1{
+     font-family:Roboto;
+     font-size: 80px;
+     margin: 50px 50px 0px 50px;
+ }
+ 
+h2{
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 100;
+    margin-top: 0px;
+    padding: 0px 50px 0px 265px;
+    
+}
+ 
+.center{
+    text-align: center;
+    
+}
+
+.text{
+    color: white;
+}
